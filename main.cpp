@@ -55,7 +55,7 @@ int main(){
 	cout<<"Less than??"<<endl;
 	cout<<((F1 < F2)?"True":"False")<<endl;
 
-	cout<<"Converting Fractions to Double and Int"<<endl;
+	cout<<"Converting Fractions to Double and Int, Will Through exception if denominator is zero"<<endl;
 	cout<<F1<<" as Double = "<<F1.convertToDouble()<<endl;
 	cout<<F2<<" as Integer (rounded up) = "<<F2.convertToInt()<<endl;
 
