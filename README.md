@@ -1,6 +1,7 @@
 # MathWorks-Fraction
-Implemented a Fraction Class with Addition, Subtraction, Multiplication, Division, Equality, Non-Equality, Greater Than, Less Than and Display Functionality. Also can convert Valid Fractions to Double &amp; Int values.
+Implemented a Fraction Class with Addition, Subtraction, Multiplication, Division, Equality, Non-Equality, Greater Than, Less Than and Display Functionality. 
 
+Also can convert Valid Fractions to Double and Int values.
 
 Improvement Ideas:
 1) Give an option to the user if the fraction after calculations needs to be reduced or not.
